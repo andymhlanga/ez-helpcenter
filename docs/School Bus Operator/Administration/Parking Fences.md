@@ -70,5 +70,5 @@ A Parking Fence is an area drawn on a map to mark a parking area for the bus. Wh
 
 6. An alert will pop-up to confirm deletion click **Yes** to continue or **No** to cancel. 
 
-
+delete me 
 
